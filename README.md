@@ -27,3 +27,8 @@ Recuerda:
     % DE VARIACIÓN CON Temp.  +/-: 0.1%             # PORCENTAJE DE VARIACIÓN CON X °c TEMPERATURA
 ==================================================
          
+Copyright (c) 2025 Breyner Morales
+
+This software is proprietary and confidential.
+Unauthorized copying of this file, via any medium, is strictly prohibited.
+The source code is not open for modification, distribution, or commercial use without prior written permission from the author.
